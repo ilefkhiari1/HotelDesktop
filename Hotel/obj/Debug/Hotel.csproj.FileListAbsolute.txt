@@ -1,0 +1,12 @@
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+C:\Users\moham\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\moham\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\moham\source\repos\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\moham\source\repos\Hotel\Hotel\bin\Debug\Guna.UI2.dll
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\moham\source\repos\Hotel\Hotel\obj\Debug\Hotel.pdb
